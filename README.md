@@ -1,9 +1,16 @@
-# 这是自己CPU的代码仓库
-由于采用增量开发, 即在之前的基础上进行开发, 所以以后将采取在同一个仓库提交代码的方式, 方便大家的代码管理.
+# ⚠　WARNING ⚠
+## Web action detected!
+## 检测到网页端提交！
 
-请大家在commit信息中写明提交的内容, 以便于查看代码的变化, 以及我们判断是否完成了作业.
+The commit was made by a web action, which is not allowed to use in this repository. It has been forced to rollback.
+网页端被禁止使用，该提交已经被强制撤回。
+    
+## Previous file page url:
+## 被撤回前文件的页面链接:
 
-请及时更新 catalogue.md 文件, 以便于我们了解你的代码结构.
+[README.md@489331a](https://github.com/Loongson-neuq/cpu-rtl-neuqZhan/blob/101d851e97ae7f290b6baf4ceb980bd4aa9c269c/README.md)
 
+## Previous file raw url:
+## 被撤回前文件的下载链接:
 
-*本仓库会不定期更新, 请大家及时 pull 以保持最新代码*
+[README.md@489331a](https://github.com/Loongson-neuq/cpu-rtl-neuqZhan/raw/101d851e97ae7f290b6baf4ceb980bd4aa9c269c/README.md)
